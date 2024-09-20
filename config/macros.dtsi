@@ -38,59 +38,59 @@
     compatible = "zmk,behavior-macro";
     label = "macro_a_acute";
     #binding-cells = <0>;
-    bindings = <&kp A>, <&kp ACUTE>;
+    bindings = <&kp A>, <&kp SQT>; // Usa SQT per l'accento acuto
   };
   macro_e_acute: macro_e_acute {
     compatible = "zmk,behavior-macro";
     label = "macro_e_acute";
     #binding-cells = <0>;
-    bindings = <&kp E>, <&kp ACUTE>;
+    bindings = <&kp E>, <&kp SQT>;
   };
   macro_i_acute: macro_i_acute {
     compatible = "zmk,behavior-macro";
     label = "macro_i_acute";
     #binding-cells = <0>;
-    bindings = <&kp I>, <&kp ACUTE>;
+    bindings = <&kp I>, <&kp SQT>;
   };
   macro_o_acute: macro_o_acute {
     compatible = "zmk,behavior-macro";
     label = "macro_o_acute";
     #binding-cells = <0>;
-    bindings = <&kp O>, <&kp ACUTE>;
+    bindings = <&kp O>, <&kp SQT>;
   };
   macro_u_acute: macro_u_acute {
     compatible = "zmk,behavior-macro";
     label = "macro_u_acute";
     #binding-cells = <0>;
-    bindings = <&kp U>, <&kp ACUTE>;
+    bindings = <&kp U>, <&kp SQT>;
   };
   macro_A_ACUTE: macro_A_ACUTE {
     compatible = "zmk,behavior-macro";
     label = "macro_A_ACUTE";
     #binding-cells = <0>;
-    bindings = <&kp A>, <&kp ACUTE>;
+    bindings = <&kp A>, <&kp SQT>;
   };
   macro_E_ACUTE: macro_E_ACUTE {
     compatible = "zmk,behavior-macro";
     label = "macro_E_ACUTE";
     #binding-cells = <0>;
-    bindings = <&kp E>, <&kp ACUTE>;
+    bindings = <&kp E>, <&kp SQT>;
   };
   macro_I_ACUTE: macro_I_ACUTE {
     compatible = "zmk,behavior-macro";
     label = "macro_I_ACUTE";
     #binding-cells = <0>;
-    bindings = <&kp I>, <&kp ACUTE>;
+    bindings = <&kp I>, <&kp SQT>;
   };
   macro_O_ACUTE: macro_O_ACUTE {
     compatible = "zmk,behavior-macro";
     label = "macro_O_ACUTE";
     #binding-cells = <0>;
-    bindings = <&kp O>, <&kp ACUTE>;
+    bindings = <&kp O>, <&kp SQT>;
   };
   macro_U_ACUTE: macro_U_ACUTE {
     compatible = "zmk,behavior-macro";
     label = "macro_U_ACUTE";
     #binding-cells = <0>;
-    bindings = <&kp U>, <&kp ACUTE>;
+    bindings = <&kp U>, <&kp SQT>;
   };
