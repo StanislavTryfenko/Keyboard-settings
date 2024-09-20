@@ -64,33 +64,3 @@
     #binding-cells = <0>;
     bindings = <&kp LWIN>, <&kp U>, <&kp SQT>; // Tasto Windows + U + SQT per "ú"
   };
-  macro_A_ACUTE: macro_A_ACUTE {
-    compatible = "zmk,behavior-macro";
-    label = "macro_A_ACUTE";
-    #binding-cells = <0>;
-    bindings = <&kp LWIN>, <&kp A>, <&kp SQT>; // Tasto Windows + A + SQT per "Á"
-  };
-  macro_E_ACUTE: macro_E_ACUTE {
-    compatible = "zmk,behavior-macro";
-    label = "macro_E_ACUTE";
-    #binding-cells = <0>;
-    bindings = <&kp LWIN>, <&kp E>, <&kp SQT>; // Tasto Windows + E + SQT per "É"
-  };
-  macro_I_ACUTE: macro_I_ACUTE {
-    compatible = "zmk,behavior-macro";
-    label = "macro_I_ACUTE";
-    #binding-cells = <0>;
-    bindings = <&kp LWIN>, <&kp I>, <&kp SQT>; // Tasto Windows + I + SQT per "Í"
-  };
-  macro_O_ACUTE: macro_O_ACUTE {
-    compatible = "zmk,behavior-macro";
-    label = "macro_O_ACUTE";
-    #binding-cells = <0>;
-    bindings = <&kp LWIN>, <&kp O>, <&kp SQT>; // Tasto Windows + O + SQT per "Ó"
-  };
-  macro_U_ACUTE: macro_U_ACUTE {
-    compatible = "zmk,behavior-macro";
-    label = "macro_U_ACUTE";
-    #binding-cells = <0>;
-    bindings = <&kp LWIN>, <&kp U>, <&kp SQT>; // Tasto Windows + U + S
-  };
