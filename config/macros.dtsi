@@ -34,3 +34,63 @@
     #binding-cells = <0>;
     bindings = <&kp LS(K)>, <&kp I>, <&kp N>, <&kp E>, <&kp S>, <&kp I>, <&kp S>;
   };
+  macro_a_acute: macro_a_acute {
+    compatible = "zmk,behavior-macro";
+    label = "macro_a_acute";
+    #binding-cells = <0>;
+    bindings = <&kp A>, <&kp ACUTE>;
+  };
+  macro_e_acute: macro_e_acute {
+    compatible = "zmk,behavior-macro";
+    label = "macro_e_acute";
+    #binding-cells = <0>;
+    bindings = <&kp E>, <&kp ACUTE>;
+  };
+  macro_i_acute: macro_i_acute {
+    compatible = "zmk,behavior-macro";
+    label = "macro_i_acute";
+    #binding-cells = <0>;
+    bindings = <&kp I>, <&kp ACUTE>;
+  };
+  macro_o_acute: macro_o_acute {
+    compatible = "zmk,behavior-macro";
+    label = "macro_o_acute";
+    #binding-cells = <0>;
+    bindings = <&kp O>, <&kp ACUTE>;
+  };
+  macro_u_acute: macro_u_acute {
+    compatible = "zmk,behavior-macro";
+    label = "macro_u_acute";
+    #binding-cells = <0>;
+    bindings = <&kp U>, <&kp ACUTE>;
+  };
+  macro_A_ACUTE: macro_A_ACUTE {
+    compatible = "zmk,behavior-macro";
+    label = "macro_A_ACUTE";
+    #binding-cells = <0>;
+    bindings = <&kp A>, <&kp ACUTE>;
+  };
+  macro_E_ACUTE: macro_E_ACUTE {
+    compatible = "zmk,behavior-macro";
+    label = "macro_E_ACUTE";
+    #binding-cells = <0>;
+    bindings = <&kp E>, <&kp ACUTE>;
+  };
+  macro_I_ACUTE: macro_I_ACUTE {
+    compatible = "zmk,behavior-macro";
+    label = "macro_I_ACUTE";
+    #binding-cells = <0>;
+    bindings = <&kp I>, <&kp ACUTE>;
+  };
+  macro_O_ACUTE: macro_O_ACUTE {
+    compatible = "zmk,behavior-macro";
+    label = "macro_O_ACUTE";
+    #binding-cells = <0>;
+    bindings = <&kp O>, <&kp ACUTE>;
+  };
+  macro_U_ACUTE: macro_U_ACUTE {
+    compatible = "zmk,behavior-macro";
+    label = "macro_U_ACUTE";
+    #binding-cells = <0>;
+    bindings = <&kp U>, <&kp ACUTE>;
+  };
