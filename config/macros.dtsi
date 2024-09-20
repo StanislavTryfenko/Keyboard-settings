@@ -40,10 +40,3 @@
     #binding-cells = <0>;
     bindings = <&kp E>, <&kp ACUTE>;
   };
-  macro_a_acute: macro_a_acute {
-    compatible = "zmk,behavior-macro";
-    label = "macro_a_acute";
-    #binding-cells = <0>;
-    bindings = <&kp A>, <&kp ACUTE>;
-  };
-  // Aggiungi altre macro per le lettere accentate
